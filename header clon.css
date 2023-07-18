@@ -373,9 +373,38 @@ span{
 
 
 
-/* box-3 */
+/* whatsaap header  */
+.whatsaap-navbar{
+        margin-left: 450px ;
+        margin-right: 450px ;
+       border-top-left-radius: 60px;
+       border-top-right-radius: 60px;
+        height: 250px;
+        background-color: seagreen;
+        display: flex;
+}
 
+.whatsaap-logo{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        color: white;
+        /* width: auto; */
+} 
 
+.whatsaap-icon{
+        font-size: 25px;
+        color: white;
+        /* display: inline-block; */
+}
+
+.whatsaap-icon i{
+        /* margin-left: 100px; */
+        /* float: right; */
+        display: flex;
+        justify-content: end;
+}
+
+.
 
 
 
